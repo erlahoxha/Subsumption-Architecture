@@ -31,12 +31,13 @@ Each layer is implemented using a **Finite State Machine (FSM)** and color recog
 - **HSV Color Detection** – for robust block recognition
 - **Finite State Machine (FSM)** – for task control and switching
 
-## 📁 Files Included
+## ⚙️ How to Run the Simulation
 
-- `controller.py` – Main control logic
-- `trashcan_project.wbt` – World file for Webots (if included)
-- `README.md` – Project description
-- `Trashcan_Project_Paper.pdf` – Full technical report detailing the implementation, algorithms, and results
+### Requirements
+
+- [Webots](https://cyberbotics.com) installed (version 2022+ recommended)
+- Python 3.x (Webots comes with a Python controller)
+
 
 ## 📊 Experimental Results
 
