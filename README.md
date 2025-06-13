@@ -48,10 +48,10 @@ A full technical paper describing the system design, subsumption architecture, a
 
 📄 [Download PDF Report](./Implementing%20the%20Trashcan%20Project%20using%20Subsumption%20Architecture%20Erla%20Hoxha%20(1).pdf)
 
-## 👤 Author
-
-**Erla Hoxha**    
-📧 erlahoxha04@gmail.com
+## 👩‍💻 Author
+**Erla Hoxha**  
+📧 erlahoxha04@gmail.com  
+📅 February 2025
 
 ---
 
